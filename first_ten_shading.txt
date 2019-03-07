@@ -1,0 +1,167 @@
+Working on camera 0/1000 (i.e., GetCamera(0, 1000))
+
+Working on triangle 0
+
+Working on vertex 1.11111, 7.57576, -9.07897
+   Normal is 0.243483, 0.286742, 0.92655
+Shading is 0.921131, AMB = 0.3, DIFF = 0.621131, SPEC = 0
+
+Working on vertex 0.968446, 7.57576, -8.9899
+   Normal is 0.537369, 0.245201, 0.806915
+Shading is 0.977567, AMB = 0.3, DIFF = 0.677567, SPEC = 0
+
+Working on vertex 1.11111, 7.46665, -8.9899
+   Normal is 0.26851, 0.640408, 0.71957
+Shading is 0.815733, AMB = 0.3, DIFF = 0.515733, SPEC = 0
+
+
+Working on triangle 1
+
+Working on vertex 1.11111, 7.57576, -9.07897
+   Normal is 0.243483, 0.286742, 0.92655
+Shading is 0.921131, AMB = 0.3, DIFF = 0.621131, SPEC = 0
+
+Working on vertex 1.31313, 7.43124, -8.9899
+   Normal is 0.0118599, 0.656072, 0.754605
+Shading is 0.72756, AMB = 0.3, DIFF = 0.42756, SPEC = 0
+
+Working on vertex 1.31313, 7.57576, -9.10747
+   Normal is -0.0995068, 0.298414, 0.949235
+Shading is 0.789779, AMB = 0.3, DIFF = 0.489779, SPEC = 0
+
+
+Working on triangle 2
+
+Working on vertex 1.11111, 7.46665, -8.9899
+   Normal is 0.26851, 0.640408, 0.71957
+Shading is 0.815733, AMB = 0.3, DIFF = 0.515733, SPEC = 0
+
+Working on vertex 1.31313, 7.43124, -8.9899
+   Normal is 0.0118599, 0.656072, 0.754605
+Shading is 0.72756, AMB = 0.3, DIFF = 0.42756, SPEC = 0
+
+Working on vertex 1.11111, 7.57576, -9.07897
+   Normal is 0.243483, 0.286742, 0.92655
+Shading is 0.921131, AMB = 0.3, DIFF = 0.621131, SPEC = 0
+
+
+Working on triangle 3
+
+Working on vertex 1.31313, 7.57576, -9.10747
+   Normal is -0.0995068, 0.298414, 0.949235
+Shading is 0.789779, AMB = 0.3, DIFF = 0.489779, SPEC = 0
+
+Working on vertex 1.51515, 7.49208, -8.9899
+   Normal is -0.395702, 0.625627, 0.672317
+Shading is 0.51767, AMB = 0.3, DIFF = 0.210303, SPEC = 0.00736745
+
+Working on vertex 1.51515, 7.57576, -9.05927
+   Normal is -0.433866, 0.181953, 0.882414
+Shading is 0.611928, AMB = 0.3, DIFF = 0.311928, SPEC = 0
+
+
+Working on triangle 4
+
+Working on vertex 1.31313, 7.43124, -8.9899
+   Normal is 0.0118599, 0.656072, 0.754605
+Shading is 0.72756, AMB = 0.3, DIFF = 0.42756, SPEC = 0
+
+Working on vertex 1.51515, 7.49208, -8.9899
+   Normal is -0.395702, 0.625627, 0.672317
+Shading is 0.51767, AMB = 0.3, DIFF = 0.210303, SPEC = 0.00736745
+
+Working on vertex 1.31313, 7.57576, -9.10747
+   Normal is -0.0995068, 0.298414, 0.949235
+Shading is 0.789779, AMB = 0.3, DIFF = 0.489779, SPEC = 0
+
+
+Working on triangle 5
+
+Working on vertex 1.51515, 7.49208, -8.9899
+   Normal is -0.395702, 0.625627, 0.672317
+Shading is 0.51767, AMB = 0.3, DIFF = 0.210303, SPEC = 0.00736745
+
+Working on vertex 1.59571, 7.57576, -8.9899
+   Normal is -0.678044, 0.291263, 0.67485
+Shading is 0.711194, AMB = 0.3, DIFF = 0.0931375, SPEC = 0.318057
+
+Working on vertex 1.51515, 7.57576, -9.05927
+   Normal is -0.433866, 0.181953, 0.882414
+Shading is 0.611928, AMB = 0.3, DIFF = 0.311928, SPEC = 0
+
+
+Working on triangle 6
+
+Working on vertex 1.11111, 7.77778, -9.07956
+   Normal is 0.32523, -0.0376536, 0.944885
+Shading is 0.965732, AMB = 0.3, DIFF = 0.665732, SPEC = 0
+
+Working on vertex 0.968446, 7.57576, -8.9899
+   Normal is 0.537369, 0.245201, 0.806915
+Shading is 0.977567, AMB = 0.3, DIFF = 0.677567, SPEC = 0
+
+Working on vertex 1.11111, 7.57576, -9.07897
+   Normal is 0.243483, 0.286742, 0.92655
+Shading is 0.921131, AMB = 0.3, DIFF = 0.621131, SPEC = 0
+
+
+Working on triangle 7
+
+Working on vertex 0.968331, 7.77778, -8.9899
+   Normal is 0.550577, -0.0477741, 0.833416
+Shading is 0.997955, AMB = 0.3, DIFF = 0.697955, SPEC = 0
+
+Working on vertex 0.968446, 7.57576, -8.9899
+   Normal is 0.537369, 0.245201, 0.806915
+Shading is 0.977567, AMB = 0.3, DIFF = 0.677567, SPEC = 0
+
+Working on vertex 1.11111, 7.77778, -9.07956
+   Normal is 0.32523, -0.0376536, 0.944885
+Shading is 0.965732, AMB = 0.3, DIFF = 0.665732, SPEC = 0
+
+
+Working on triangle 8
+
+Working on vertex 1.31313, 7.57576, -9.10747
+   Normal is -0.0995068, 0.298414, 0.949235
+Shading is 0.789779, AMB = 0.3, DIFF = 0.489779, SPEC = 0
+
+Working on vertex 1.31313, 7.77778, -9.10844
+   Normal is -0.0479856, -0.035622, 0.998213
+Shading is 0.838845, AMB = 0.3, DIFF = 0.538845, SPEC = 0
+
+Working on vertex 1.11111, 7.57576, -9.07897
+   Normal is 0.243483, 0.286742, 0.92655
+Shading is 0.921131, AMB = 0.3, DIFF = 0.621131, SPEC = 0
+
+
+Working on triangle 9
+
+Working on vertex 1.31313, 7.77778, -9.10844
+   Normal is -0.0479856, -0.035622, 0.998213
+Shading is 0.838845, AMB = 0.3, DIFF = 0.538845, SPEC = 0
+
+Working on vertex 1.11111, 7.77778, -9.07956
+   Normal is 0.32523, -0.0376536, 0.944885
+Shading is 0.965732, AMB = 0.3, DIFF = 0.665732, SPEC = 0
+
+Working on vertex 1.11111, 7.57576, -9.07897
+   Normal is 0.243483, 0.286742, 0.92655
+Shading is 0.921131, AMB = 0.3, DIFF = 0.621131, SPEC = 0
+
+
+Working on triangle 10
+
+Working on vertex 1.51515, 7.57576, -9.05927
+   Normal is -0.433866, 0.181953, 0.882414
+Shading is 0.611928, AMB = 0.3, DIFF = 0.311928, SPEC = 0
+
+Working on vertex 1.51515, 7.77778, -9.06052
+   Normal is -0.377388, -0.0271156, 0.925658
+Shading is 0.659866, AMB = 0.3, DIFF = 0.359866, SPEC = 0
+
+Working on vertex 1.31313, 7.57576, -9.10747
+   Normal is -0.0995068, 0.298414, 0.949235
+Shading is 0.789779, AMB = 0.3, DIFF = 0.489779, SPEC = 0
+
+
